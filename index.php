@@ -1,7 +1,8 @@
 <html>
 <body>
-<a href="gulizar.php">Linke Git</a>
-<a href="hasim.php">Linke Git</a>
+<a href="gulizar.php">Gülizar Açıkgöz</a>
+<a href="hasim.php">Haşim Açıkgöz</a>
+<a href="bayramcan.php">Bayram Can Aykul</a>
 <!--
 Süper
 -->
