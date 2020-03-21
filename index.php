@@ -2,7 +2,7 @@
 <body>
 <a href="gulizar.php">Gülizar Açıkgöz</a>
 <a href="hasim.php">Haşim Açıkgöz</a>
-<a href="bayramcan.php">Bayram Can Aykul</a>
+<a href="erdener.php">Erdener KILIÇ</a>
 <!--
 Süper
 -->
