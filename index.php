@@ -1,5 +1,9 @@
 <html>
 <body>
-<a href="gulizar.html">Linke Git</a>
+<a href="gulizar.php">Linke Git</a>
+<a href="hasim.php">Linke Git</a>
+<!--
+Süper
+-->
 </body>
 </html>
